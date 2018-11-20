@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1541191488 source:/home/alaa/Desktop/MatrixMultiplication/main.cpp
+	<iostream>
+	<fstream>
+	<pthread.h>
+	<ctime>
+

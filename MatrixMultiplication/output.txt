@@ -1,0 +1,15 @@
+ Matrix 1
+-37 -37 
+19 27 
+-7 -6 
+51 50 
+-28 -100 
+Time elapsed : 0.000432  Seconds
+
+ Matrix 2
+-37 -37 
+19 27 
+-7 -6 
+51 50 
+-28 -100 
+Time elapsed : 0.000128  Seconds
